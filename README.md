@@ -12,7 +12,7 @@ The files are available under this link:  [Download from ORU.se](https://cloud.o
 The dataset provides sensor measurements from these sensors:
 
  - Sensrad Hugin A3-Sample (solid-state 4D radar)
- - Ouster OS1-32 (3D lidar)
+ - Ouster OS1-64 (3D lidar)
  - Xsens MTi-30 (IMU)
  - Emlid Reach RS2+ (RTK-GNSS receiver pair, Forest experiment only)
 
@@ -37,7 +37,7 @@ The _/tf_ topic contains all static transforms between the sensors, except for t
 
 The Hugin radar is set to the _Short range_ profile, which assures the highest range resolution for the price of 50m range. It produces between 5,000-10,000 points that include the power and Doppler velocity values. The radar messages are timestamped in the sensor, however they arrive with approx 0.1s lag.
 
-### OS1-32 lidar
+### OS1-64 lidar
 
 The lidar scans are recorded directly as PointCloud2 messages in the bag files to make the re-use easier. The lidar is PTP-synchronized with the recording computer.
 

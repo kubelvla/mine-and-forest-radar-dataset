@@ -35,7 +35,7 @@ The _/tf_ topic contains all static transforms between the sensors, except for t
 
 ### Hugin radar
 
-PLease note that the Hugin A3-Sample radar used in our dataset is an early demo model not with the same performance as the forthcoming production-ready model. It is set to the _Short range_ profile, which assures the highest range resolution for the price of 50m range. It produces between 5,000-10,000 points that include the power and Doppler velocity values. The radar messages are timestamped in the sensor, however they arrive with approx 0.1s lag.
+Please note that the Hugin A3-Sample radar used in our dataset is an early demo model not with the same performance as the forthcoming production-ready model. It is set to the _Short range_ profile, which assures the highest range resolution for the price of 50m range. It produces between 5,000-10,000 points that include the power and Doppler velocity values. The radar messages are timestamped in the sensor, however they arrive with approx 0.1s lag.
 
 ### OS1-64 lidar
 

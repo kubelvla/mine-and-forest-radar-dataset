@@ -60,3 +60,7 @@ This tum-style format can be directly loaded with the tools of the [EVO library]
 ## User feedback
 
 This dataset is a part of a work in progress on a radar SLAM solution for harsh environments. We welcome suggestions regarding this dataset or its documentation in the _Issues_ section of this repository.
+
+## License
+
+This **mine-and-forest-radar-dataset** is made available under the Open Database License: [http://opendatacommons.org/licenses/odbl/1.0/](http://opendatacommons.org/licenses/odbl/1.0/).

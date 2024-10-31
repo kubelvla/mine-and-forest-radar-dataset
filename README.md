@@ -64,3 +64,15 @@ This dataset is a part of a work in progress on a radar SLAM solution for harsh 
 ## License
 
 This **mine-and-forest-radar-dataset** is made available under the Open Database License: [http://opendatacommons.org/licenses/odbl/1.0/](http://opendatacommons.org/licenses/odbl/1.0/).
+
+When used for research, we will be happy when you use this citation:
+```
+@INPROCEEDINGS{Kubelka2024Radar,
+  author={Kubelka, Vladim\'ir and Fritz, Emil and Magnusson, Martin},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Do we need scan-matching in radar odometry?}, 
+  year={2024},
+  pages={13710-13716},
+  doi={10.1109/ICRA57147.2024.10610666}
+}
+```

@@ -5,7 +5,9 @@ This repository contains links and instructions for a radar odometry dataset ass
 
 The file format is ROS1 _.bag_ files with all sensory data as recorded during the _Forest_ and _Mine_ experiments. The bag files are split into 5GB parts to make the download and handling easier. 
 
-The files are available under this link:  [Download from ORU.se](https://cloud.oru.se/s/rHbRad83A764nmx)
+~~The files are available under this link~~ (temporarily down due to file server upgrade):  [Download from ORU.se](https://cloud.oru.se/s/rHbRad83A764nmx)
+
+The dataset is also available at Zenodo.org: [Download from Zenodo](https://zenodo.org/records/21409692)
 
 ## Topics
 
